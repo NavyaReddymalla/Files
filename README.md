@@ -8,3 +8,9 @@ maroon
 pink
 violet 
 yellow
+...........
+orange
+apple
+banana
+grapes
+guava
