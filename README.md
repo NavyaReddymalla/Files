@@ -6,3 +6,5 @@ blue
 black
 maroon
 pink
+violet 
+yellow
